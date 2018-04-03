@@ -1,0 +1,11 @@
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\bin\Debug\Aeroeste.exe.config
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\bin\Debug\Aeroeste.exe
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\bin\Debug\Aeroeste.pdb
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.csprojResolveAssemblyReference.cache
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.Form1.resources
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.Properties.Resources.resources
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.csproj.GenerateResource.cache
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.csproj.CoreCompileInputs.cache
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.exe
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.pdb
+C:\Users\MiPc\source\repos\Aeroeste\Aeroeste\obj\Debug\Aeroeste.Form2.resources
